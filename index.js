@@ -120,4 +120,4 @@ function play(guild, song) {
 	dispatcher.setVolumeLogarithmic(serverQueue.volume / 5);
 }
 
-client.login('NTU5MzE3NjE3Mzc1MDUxNzk1.XcGKGA.6DqroxML6bHGP1CcjlPLfjejB6o');
+client.login('NTU5MzE3NjE3Mzc1MDUxNzk1.XcGYnQ.BkLqHg-sBMdDcxojAm-nha0dWoM');
